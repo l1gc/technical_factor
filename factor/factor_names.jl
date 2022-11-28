@@ -1,0 +1,25 @@
+
+factor_name = ["pettm", "pb", "mmt_5", "mmt_15", "mmt_30", "mmt_63", "mmt_120", "mmt_intraday_5", "mmt_intraday_15", 
+"mmt_intraday_30", "mmt_intraday_63", "mmt_intraday_120", "mmt_overnight_5", "mmt_overnight_15", "mmt_overnight_30", 
+"mmt_overnight_63", "mmt_overnight_120", "mmt_rank_5", "mmt_rank_15", "mmt_rank_30", "mmt_rank_63", "mmt_rank_120", 
+"mmt_smooth_5", "mmt_smooth_15", "mmt_smooth_30", "mmt_smooth_63", "mmt_smooth_120", "mmt_high_252", "ret_vol_5", 
+"ret_vol_15", "ret_vol_30", "ret_vol_63", "ret_vol_120", "high_low_5", "high_low_15", "high_low_30", "high_low_63", 
+"high_low_120", "turnover_mean_5", "turnover_mean_15", "turnover_mean_30", "turnover_mean_63", "turnover_mean_120", 
+"turnover_std_5", "turnover_std_15", "turnover_std_30", "turnover_std_63", "turnover_std_120", "main_vol_mean_5", 
+"main_vol_mean_15", "main_vol_mean_30", "main_vol_mean_63", "main_vol_mean_120", "small_vol_mean_5", "small_vol_mean_15", 
+"small_vol_mean_30", "small_vol_mean_63", "small_vol_mean_120", "main_min_small_mean_5", "main_min_small_mean_15", 
+"main_min_small_mean_30", "main_min_small_mean_63", "main_min_small_mean_120", "main_vol_std_5", "main_vol_std_15", 
+"main_vol_std_30", "main_vol_std_63", "main_vol_std_120", "small_vol_std_5", "small_vol_std_15", "small_vol_std_30", 
+"small_vol_std_63", "small_vol_std_120", "main_min_small_std_5", "main_min_small_std_15", "main_min_small_std_30", 
+"main_min_small_std_63", "main_min_small_std_120", "hkhold_mean_5", "hkhold_mean_15", "hkhold_mean_30", "hkhold_mean_63", 
+"hkhold_mean_120", "hkhold_std_5", "hkhold_std_15", "hkhold_std_30", "hkhold_std_63", "hkhold_std_120",
+
+"mmt_relative_5", "mmt_relative_15", "mmt_relative_30", "mmt_relative_63", "mmt_relative_120", "mmt_amplitude_adjust_5", 
+"mmt_amplitude_adjust_15", "mmt_amplitude_adjust_30", "mmt_amplitude_adjust_63", "mmt_amplitude_adjust_120", "mmt_average_adjust_5", 
+"mmt_average_adjust_15", "mmt_average_adjust_30", "mmt_average_adjust_63", "mmt_average_adjust_120", "mmt_exclude_limit_5", 
+"mmt_exclude_limit_15", "mmt_exclude_limit_30", "mmt_exclude_limit_63", "mmt_exclude_limit_120", "mmt_infomation_discrete_5", 
+"mmt_infomation_discrete_15", "mmt_infomation_discrete_30", "mmt_infomation_discrete_63", "mmt_infomation_discrete_120", 
+"mmt_time_rank_5", "mmt_time_rank_15", "mmt_time_rank_30", "mmt_time_rank_63", "mmt_time_rank_120", "vol_up_adjust_5", 
+"vol_up_adjust_15", "vol_up_adjust_30", "vol_up_adjust_63", "vol_up_adjust_120", "corr_sync_5", "corr_sync_15", "corr_sync_30", 
+"corr_sync_63", "corr_sync_120"]
+
